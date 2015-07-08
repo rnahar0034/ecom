@@ -1,0 +1,1 @@
+API Docs are now at https://geophp.net/api.html
